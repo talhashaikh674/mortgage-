@@ -1,0 +1,414 @@
+@media (min-width: 320px) and (max-width: 767px){ 
+
+    h1.hding {
+        font-size: 20px;
+    }
+
+    .hding1 {
+        font-size: 14px;
+    }
+
+    img.Logo {
+        width: 100%;
+    }
+
+    .hding2 {
+        font-size: 18px;
+    }
+
+    .icon2 {
+        width: 20%;
+    }
+
+    img.icon1 {
+        width: 20%;
+    }
+
+    .hding3 br {
+        display: none;
+    }
+
+    .hding3 {
+        font-size: 26px;
+    }
+
+    .hding4 {
+        font-size: 22px;
+    }
+
+    .para {
+        margin: 10px 0 0 0;
+        text-align: justify;
+    }
+
+    .para1 {
+        text-align: justify;
+    }
+
+    .contentflex2 {
+        margin-top: 25px;
+    }
+
+    .hding5 {
+        text-align: center;
+    }
+
+    .sect3 {
+        padding-top: 100px;
+        padding-bottom: 80px;
+        margin-top: 40px;
+    }
+
+    .input2 {
+        padding: 5px 22px 5px 25px;
+        margin: 15px 0 0 8px;
+    }
+
+    .input1 {
+        padding: 5px 25px 5px 25px;
+        margin: 20px 0 0 14px;
+    }
+
+    .input3 {
+        padding: 5px 25px 5px 25px;
+        margin: 20px 0 0 18px;
+    }
+
+    .para7 br {
+        display: none;
+    }
+
+    .para7 {
+        font-size: 16px;
+        margin: 15px 0 0 0;
+    }
+
+    .hding18 {
+        font-size: 30px;
+    }
+
+    section.owlcarouselsect {
+        padding: 70px 0;
+    }
+
+    .hding19 {
+        font-size: 20px;
+    }
+
+    img.footlogo {
+        width: 100%;
+    }
+    .maindiv3 {
+        margin: 90px 0 0 0;
+    }
+
+    .Schedule {
+        padding: 8px 20px;
+        border-radius: 25px;
+        margin-top: 12px;
+    }
+
+    .enteryouremail {
+        border-radius: 25px;
+        margin-top: 12px;
+    }
+
+    .banner {
+        margin-top: 0;
+    }
+    .contentsect1 {
+        margin-top: 0px;
+    }
+
+    .parendiv3 {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        flex-direction: column;
+    }
+
+    .para8 {
+        text-align: justify;
+    }
+    .para9 {
+        text-align: justify;
+    }
+    .para10 {
+        text-align: justify;
+    }
+
+    .footcontent2 {
+        margin: 30px 0 0 0;
+    }
+
+    .hding12 {
+        margin: 10px 0 10px 0;
+        color: #fff;
+        font-size: 25px;
+    }
+
+    .hding17 {
+        font-size: 25px;
+    }
+
+    .hding11 {
+        font-size: 28px;
+    }
+
+    .hding16 {
+        font-size: 25px;
+    }
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px){ 
+
+
+    h1.hding {
+        font-size: 35px;
+    }
+
+    .hding4 {
+        font-size: 20px;
+    }
+
+    .hding3 {
+        font-size: 25px;
+    }
+
+    .para {
+        margin: 8px 0 0 0;
+        text-align: justify;
+    }
+
+    .contentflex1 {
+        gap: 8px;
+        margin: 8px 0 0 0;
+    }
+
+    .input2 {
+        padding: 5px 28px 5px 25px;
+        margin: 15px 0 0 28px;
+    }
+
+    .img1 {
+        padding: 18px 0;
+    }
+
+    .hding18 {
+        font-size: 30px;
+    }
+
+    .btn3 {
+        margin: 10px 0 0 0;
+        padding: 10px 9px;
+        font-size: 14px;
+    }
+
+    .enteryouremail {
+        padding: 8px 30px;
+        margin-left: -5px;
+        margin-top: 15px;
+        border-radius: 25px;
+    }
+
+    .Schedule {
+        padding: 8px 20px;
+        border-radius: 25px;
+    }
+
+    .para4 br {
+        display: none;
+    }
+
+    .parendiv3 {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        flex-direction: column;
+    }
+
+    section.sect9 {
+        margin: 10px 0 0 0;
+    }
+
+}
+
+@media (min-width: 280px) and (max-width: 653px){
+
+
+    .banner {
+        margin-top: 0;
+    }
+
+    .maindiv {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .contentsect1 {
+        margin-top: 0;
+    }
+
+    h1.hding {
+        font-size: 20px;
+        margin-top: 10px;
+    }
+
+    .hding1 {
+        font-size: 18px;
+        margin: 10px 0 10px 0;
+    }
+
+    .hding2 {
+        font-size: 18px;
+    }
+
+    .hding3 {
+        font-size: 20px;
+    }
+
+    .hding4 {
+        font-size: 18px;
+    }
+
+    .para {
+        text-align: justify;
+        margin-top: 8px;
+    }
+
+    .para1 {
+        text-align: justify;
+    }
+
+    .sect3 {
+        padding-top: 80px;
+        padding-bottom: 60px;
+        margin-top: 40px;
+    }
+
+    .contentflex2 {
+        margin-top: 20px;
+    }
+
+    .hding7 {
+        font-size: 20px;
+        margin: 35px 0 0 0;
+    }
+
+    .hding8 {
+        font-size: 25px;
+    }
+
+    .input1 {
+        font-size: 18px;
+        padding: 5px 10px;
+        margin: 20px 0 0 10px;
+    }
+
+    .input2 {
+        font-size: 18px;
+        padding: 5px 0px 5px 18px;
+        margin: 15px 0 0 10px;
+    }
+
+    .input3 {
+        font-size: 18px;
+        padding: 5px 10px 5px 10px;
+        margin: 20px 0 0 10px;
+    }
+
+    .img1 {
+        padding: 55px 0;
+    }
+
+    .hding17 {
+        font-size: 20px;
+    }
+
+    .hding11 {
+        font-size: 25px;
+    }
+
+    .hding12 {
+        font-size: 20px;
+    }
+
+    .hding15 {
+        margin: 15px 0 0 0;
+        font-size: 20px;
+    }
+
+    .img2 {
+        padding: 55px 0;
+    }
+
+    .apply-today {
+        padding: 10px 30px;
+    }
+
+    .hding18 {
+        font-size: 25px;
+    }
+
+    section.owlcarouselsect {
+        padding: 40px 0;
+    }
+
+    .hding19 {
+        font-size: 20px;
+    }
+
+    .hding20 {
+        font-size: 18px;
+    }
+
+    .btn3 {
+        font-size: 16px;
+        padding: 10px 15px;
+    }
+
+    .Schedule {
+        padding: 8px 20px;
+        border-radius: 25px;
+        margin-top: 12px;
+    }
+
+    .enteryouremail {
+        padding: 8px 10px;
+        border-radius: 25px;
+        margin-top: 12px;
+    }
+
+    .sect7 {
+        margin-top: 30px;
+    }
+
+    .footlogo {
+        width: 100%;
+    }
+
+    .para8 {
+        text-align: justify;
+    }
+
+    .NCUAcolor {
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    .para10 {
+        text-align: justify;
+    }
+
+    .footcontent2 {
+        margin: 25px 0 0 0;
+    }
+
+
+
+
+
+
+}

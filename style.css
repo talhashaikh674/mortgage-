@@ -1,0 +1,696 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section.sect {
+    background: #ffffff87;
+    position: relative;
+}
+
+.contentsect1 {
+    margin-top: 150px;
+}
+
+/* -------------------------------- navbar css open -------------------------------- */
+
+a.nav-link {
+    font-size: 18px;
+    font-family: Arial;
+    font-weight: 600;
+    color: #000 !important;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 3.5rem;
+    padding-left: 0rem;
+}
+
+h5.emailnum {
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+    color: #000;
+}
+
+button.btn {
+    background-color: #0d3182;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 6px;
+    border: 0px solid #0d3182;
+    cursor: pointer;
+}
+
+button.btn:hover {
+    background-color: #f05a24;
+    transition: 0.5s;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: space-evenly;
+}
+
+img.Logo {
+    width: 100%;
+}
+/* -------------------------------- navbar css close -------------------------------- */
+
+
+
+/* -------------------------------- section 1 css open -------------------------------- */
+
+.banner {
+    background-image: url(img/banner.jpg);
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: -164px;
+}
+
+.maindiv {
+    background: #000000a1;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+h1.hding {
+    color: #fff;
+    font-size: 45px;
+    font-family: Arial;
+    margin: 0;
+    font-weight: 500;
+}
+
+.hding1 {
+    color: #fff;
+    font-size: 22px;
+    font-family: Arial;
+    margin: 0;
+    font-weight: 500;
+}
+
+.hding2 {
+    color: #fff;
+    margin: 0;
+    font-size: 20px;
+}
+
+img.icon1 {
+    width: 12%;
+}
+
+.icon2 {
+    width: 12%;
+}
+
+.contentflex {
+    display: flex;
+    align-items: center;
+}
+
+/* -------------------------------- section 1 css close -------------------------------- */
+
+
+/* -------------------------------- section 2 css open -------------------------------- */
+
+.hding3 {
+    color: #0d3182;
+    font-size: 30px;
+    margin: 0;
+}
+
+.hding4 {
+    color: #f05a24;
+    font-size: 26px;
+    margin: 8px 0 0 0;
+}
+
+.para {
+    color: #0d3182;
+    margin: 12px 0 0 0;
+    font-weight: 500;
+}
+
+img.Tick {
+    width: 10%;
+    margin: -35px 0 0 0;
+}
+
+.para1 {
+    color: #5d5d5d;
+    font-weight: 500;
+    margin: 0;
+}
+
+.contentflex1 {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin: 15px 0 0 0;
+}
+
+img.banner2 {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.sect2 {
+    margin-top: 50px;
+}
+
+/* -------------------------------- section 2 css close -------------------------------- */
+
+
+/* -------------------------------- section 3 css open -------------------------------- */
+
+.sect3 {
+    background-color: #0d3182;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    margin-top: 70px;
+}
+
+.hding5 {
+    font-size: 24px;
+    color: #fff;
+    margin: 0;
+}
+
+img.Menu1 {
+    width: 50%;
+}
+
+.hding6 {
+    font-size: 18px;
+    color: #fff;
+    margin: 10px 0 0 0;
+}
+
+.contentflex2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -40px;
+}
+
+.hding7 {
+    color: #0d3182;
+    font-size: 35px;
+    margin: 50px 0 0 0;
+    text-align: center;
+}
+
+/* -------------------------------- section 3 css close -------------------------------- */
+
+
+/* -------------------------------- section 4 css open -------------------------------- */
+
+.hding8 {
+    font-size: 30px;
+    color: #0d3182;
+    margin: 0;
+}
+
+img.flex1 {
+    width: 30%;
+}
+
+.contentflex3 {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.hding9 {
+    font-size: 25px;
+    color: #fff;
+    margin: 0;
+}
+
+.parendiv2 {
+    background-color: #f05a24;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.parendiv1 {
+    border: 2px solid #0d3182;
+    border-radius: 6px;
+    padding-bottom: 45px;
+    margin-top: 40px;
+}
+
+.hding10 {
+    font-size: 20xp;
+    color: #0d3182;
+    margin: 45px 0 0 0;
+}
+
+.hding100 {
+    font-size: 20xp;
+    color: #0d3182;
+    margin: 10px 0 20px 0;
+}
+
+.num {
+    font-size: 28px;
+    color: #0d3182;
+    margin: 0;
+    font-weight: 400;
+}
+
+.sect4 {
+    margin-top: 40px;
+}
+
+.anchor1 {
+    color: #0d3182;
+    font-weight: 600;
+}
+
+a.anchor1:hover {
+    color: #0d3182;
+    text-decoration: none;
+}
+
+.para2 {
+    color: #5d5d5d;
+    text-align: center;
+    font-weight: 500;
+    margin: 40px 0 0 0;
+}
+
+/* -------------------------------- section 4 css close -------------------------------- */
+
+
+/* -------------------------------- section 5 css open -------------------------------- */
+
+.img1 {
+    background-image: url(img/lightimg1-01.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 117px 0;
+}
+
+.formdiv {
+    background-color: #0d3182;
+    padding: 0px 0;
+}
+
+.hding11 {
+    font-size: 35px;
+    color: #fff;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.input1 {
+    background-color: #c5c5c5;
+    border: 1px solid #c5c5c5;
+    font-size: 20px;
+    padding: 5px 25px 5px 25px;
+    margin: 20px 0 0 28px;
+}
+
+::placeholder {
+    color: #0d3182;
+}
+
+.input2 {
+    font-size: 20px;
+    background-color: #c5c5c5;
+    border: 1px solid #c5c5c5;
+    padding: 5px 335px 5px 25px;
+    margin: 15px 0 0 28px;
+}
+
+.input3 {
+    background-color: #f05a24;
+    border: 1px solid #f05a24;
+    font-size: 20px;
+    padding: 5px 25px 5px 25px;
+    margin: 20px 0 0 28px;
+}
+
+.formdiv2 {
+    background-color: #f05a24;
+    padding: 0px 0;
+}
+
+.img2 {
+    background-image: url(img/lightimg2-01.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 0;
+}
+
+.hding12 {
+    margin: 15px 0 15px 0;
+    color: #fff;
+    font-size: 35px;
+    text-align: center;
+}
+
+.tablebox {
+    border: 1px solid #fff;
+    padding: 8px 0;
+    margin: 0 30px;
+}
+
+.hding13 {
+    font-size: 20px;
+    color: #fff;
+    margin: 0;
+}
+
+.hding14 {
+    font: 20px;
+    color: #fff;
+    margin: 0;
+}
+
+.tablecontent {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 40px;
+}
+
+.hding15 {
+    margin: 20px 0 0 0;
+    font-size: 25px;
+    color: #fff;
+    text-align: center;
+}
+
+.apply-today {
+    background-color: #0d3182;
+    font-size: 20px;
+    color: #fff;
+    padding: 10px 55px;
+    cursor: pointer;
+    font-weight: 500;
+    border-radius: 5px;
+    border: 0;
+    margin: 10px 0 0 0;
+}
+
+#pad0margin0 {
+    padding: 0 !important;
+}
+
+section.sect5 {
+    margin-top: 70px;
+}
+
+.hding16 {
+    font-size: 30px;
+    color: #fff;
+    /* margin: 0; */
+    text-align: center;
+}
+
+.hding17 {
+    font-size: 30px;
+    color: #fff;
+    margin: 0;
+    text-align: center;
+}
+
+/* -------------------------------- section 5 css close -------------------------------- */
+
+
+
+/* -------------------------------- owl Carousel css open -------------------------------- */
+
+
+.owl-carousel .owl-item img {
+    display: block;
+    width: 40% !important;
+    border-radius: 100%;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.para7 {
+    text-align: center;
+    color: #6d6e70;
+    font-size: 18px;
+    margin: 30px 0 0 0;
+}
+
+
+.hding18 {
+    color: #0d3182;
+    text-align: center;
+    font-size: 35px;
+    margin: 0;
+}
+
+
+
+section.owlcarouselsect {
+    padding: 100px 0;
+    background-color: #ededee;
+}
+
+/* -------------------------------- owl Carousel css close -------------------------------- */
+
+
+/* -------------------------------- section 6 css open -------------------------------- */
+
+.cuso-portal {
+    width: 40%;
+    height: auto;
+}
+
+.hding19 {
+    font-size: 25px;
+    color: #0d3182;
+    margin: 20px 0 0 0;
+}
+
+.maindiv4 {
+    border: 2px solid #0d3182;
+    padding: 40px 20px;
+    border-radius: 6px;
+}
+
+.hding20 {
+    font-size: 20px;
+    color: #5d5d5d;
+    margin: 0;
+}
+
+.para3 {
+    color: #5d5d5d;
+    margin: 0;
+}
+
+.btn3 {
+    background-color: #f05a24;
+    border: 0;
+    border-radius: 4px;
+    font-size: 18px;
+    margin: 20px 0 0 0;
+    cursor: pointer;
+    padding: 10px 20px;
+    color: #fff;
+}
+
+.icon3div {
+    width: 45%;
+    margin: -120px 0 0 0;
+}
+
+.maindiv3 {
+    margin: 60px 0 0 0;
+}
+
+section.sect6 {
+    margin: 70px 0 0 0;
+}
+
+/* -------------------------------- section 6 css close -------------------------------- */
+
+/* -------------------------------- section 7 css open -------------------------------- */
+
+.sect7 {
+    background-color: #f05a24;
+    padding: 70px 0;
+}
+
+.hding22 {
+    font-size: 25px;
+    color: #fff;
+    margin: 0;
+}
+
+.para4 {
+    color: #fff;
+    margin: 8px 0 0 0;
+    font-size: 18px;
+}
+
+.Schedule {
+    font-size: 20px;
+    background-color: #0d3182;
+    color: #fff;
+    border: 0;
+    padding: 8px 20px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.enteryouremail {
+    font-size: 20px;
+    background-color: #fff;
+    color: #000;
+    border: 0;
+    padding: 8px 40px;
+    margin-left: -5px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.sect7 {
+    margin-top: 50px;
+}
+
+.hding23 {
+    color: #0d3182;
+    font-size: 30px;
+    margin: 50px 0 0 0;
+    text-align: center;
+}
+
+.para5 {
+    color: #6d6e70;
+    text-align: center;
+    margin: 10 0 0 0;
+    font-size: 20px;
+}
+
+/* -------------------------------- section 7 css close -------------------------------- */
+
+
+
+/* -------------------------------- section 9 css open -------------------------------- */
+
+.time1 {
+    width: 15%;
+}
+
+.parendiv3 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.para6 {
+    color: #6d6e70;
+    margin: 0;
+}
+
+.content1 {
+    margin-top: 25px;
+}
+
+.content11 {
+    margin: 58px 0 0 0;
+}
+
+.btn2 {
+    background-color: white;
+    border: 1px solid #cbcaca;
+    padding: 5px 10px;
+    margin: 20px 0 0 20px;
+    width: 38%;
+}
+
+.btnmsg {
+    background-color: white;
+    border: 1px solid #cbcaca;
+    padding: 0 10px;
+    margin: 20px 0 0 20px;
+    width: 80%;
+    height: 150px;
+}
+
+.sendamsg{
+    background-color: #0d3182;
+    border: 0;
+    border-radius: 4px;
+    font-size: 18px;
+    margin: 20px 0 0 20px;
+    cursor: pointer;
+    padding: 10px 20px;
+    color: #fff;
+}
+section.sect9 {
+    margin: 50px 0 0 0;
+}
+
+/* -------------------------------- section 9 css close -------------------------------- */
+
+
+/* -------------------------------- Footer css open -------------------------------- */
+
+.Footersect {
+    background-image: url(img/Fotter.jpg);
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* padding: 200px 0; */
+    margin-top: 60px;
+}
+
+.footer {
+    background-color: #ededeeb0;
+    padding: 80px 0;
+}
+
+.para8 {
+    color: #5d5d5d;
+    margin: 0;
+}
+
+.para9 {
+    color: #5d5d5d;
+    margin: 20px 0 0 0;
+}
+
+.para10 {
+    color: #5d5d5d;
+    margin: 15px 0 0 0;
+}
+
+.para11 {
+    color: #5d5d5d;
+    margin: 15px 0 0;
+}
+
+.footcontent2 {
+    margin: 100px 0 0 0;
+}
+
+/* -------------------------------- Footer css close -------------------------------- */
+
+
+
